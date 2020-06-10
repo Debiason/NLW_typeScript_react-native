@@ -44,7 +44,7 @@
   width: 100%;
   max-width: 360px;
   height: 72px;
-  background: var(--primary-color);
+  background: rgb(131, 223, 108);
   border-radius: 8px;
   text-decoration: none;
 
